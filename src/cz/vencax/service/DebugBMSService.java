@@ -1,20 +1,22 @@
 package cz.vencax.service;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class DebugBMSService extends AbstractBMSService {
 
+	public DebugBMSService(List<CellInfo> data) {
+		super(data);
+		// TODO Auto-generated constructor stub
+	}
+
 	@Override
-	public List<CellInfo> getCellInfo() {
-		List<CellInfo> infos = new ArrayList<CellInfo>(16);
-		for(int i=0; i<16; i++) {
-			infos.add(new CellInfo());
+	protected void obtainData() {
+		synchronized(this.data) {
+			for(CellInfo i : this.data) {
+				i.voltage = 3;
+				i.temp = 34;
+			}
 		}
-		for(CellInfo i : infos) {
-			i.voltage = 3;
-		}
-		return infos;
 	}
 
 }

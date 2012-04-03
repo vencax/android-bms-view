@@ -2,7 +2,7 @@ package cz.vencax;
 
 import java.util.List;
 
-import cz.vencax.service.AbstractBMSService.CellInfo;
+import cz.vencax.service.CellInfo;
 import android.content.Context;
 import android.view.View;
 import android.view.ViewGroup;
@@ -68,7 +68,7 @@ public class ImageAdapter extends BaseAdapter {
         CellInfo cellInfo = mData.get(position);
 
         imageView.setImageResource(_imageMapping[cellInfo.voltage]);
-        tw.setText(cellInfo.temp);
+        tw.setText(String.valueOf(cellInfo.temp));
         return l;
     }
 }
