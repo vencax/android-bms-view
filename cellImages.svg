@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="cellImages.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3803">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3805" />
+      <stop
+         id="stop3811"
+         offset="0.5"
+         style="stop-color:#494949;stop-opacity:1;" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop3807" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3874">
+      <stop
+         id="stop3876"
+         offset="0"
+         style="stop-color:#0000fe;stop-opacity:0.49803922;" />
+      <stop
+         style="stop-color:#0000fe;stop-opacity:1;"
+         offset="0.5"
+         id="stop3878" />
+      <stop
+         id="stop3880"
+         offset="1"
+         style="stop-color:#0000fe;stop-opacity:0.49803922;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3866">
+      <stop
+         id="stop3868"
+         offset="0"
+         style="stop-color:#ee00fe;stop-opacity:0.49803922;" />
+      <stop
+         style="stop-color:#ee00fe;stop-opacity:1;"
+         offset="0.5"
+         id="stop3870" />
+      <stop
+         id="stop3872"
+         offset="1"
+         style="stop-color:#ee00fe;stop-opacity:0.49803922;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3846">
+      <stop
+         style="stop-color:#7fe8ff;stop-opacity:0.49803922;"
+         offset="0"
+         id="stop3848" />
+      <stop
+         id="stop3850"
+         offset="0.5"
+         style="stop-color:#7fe8ff;stop-opacity:1;" />
+      <stop
+         style="stop-color:#7fe8ff;stop-opacity:0.49803922;"
+         offset="1"
+         id="stop3852" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3838">
+      <stop
+         style="stop-color:#00ff5a;stop-opacity:0.49803922;"
+         offset="0"
+         id="stop3840" />
+      <stop
+         id="stop3842"
+         offset="0.5"
+         style="stop-color:#00ff5a;stop-opacity:1;" />
+      <stop
+         style="stop-color:#00ff5a;stop-opacity:0.49803922;"
+         offset="1"
+         id="stop3844" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3830">
+      <stop
+         style="stop-color:#5aff00;stop-opacity:0.49803922;"
+         offset="0"
+         id="stop3832" />
+      <stop
+         id="stop3834"
+         offset="0.5"
+         style="stop-color:#5aff00;stop-opacity:1;" />
+      <stop
+         style="stop-color:#5aff00;stop-opacity:0.49803922;"
+         offset="1"
+         id="stop3836" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3785">
+      <stop
+         id="stop3787"
+         offset="0"
+         style="stop-color:#fff000;stop-opacity:0.49803922;" />
+      <stop
+         style="stop-color:#fff000;stop-opacity:1;"
+         offset="0.5"
+         id="stop3789" />
+      <stop
+         id="stop3791"
+         offset="1"
+         style="stop-color:#fff000;stop-opacity:0.49803922;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3765">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:0.49803922;"
+         offset="0"
+         id="stop3767" />
+      <stop
+         id="stop3777"
+         offset="0.5"
+         style="stop-color:#ff0000;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:0.49803922;"
+         offset="1"
+         id="stop3769" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3765"
+       id="linearGradient3775"
+       x1="102.85715"
+       y1="301.64789"
+       x2="202.85715"
+       y2="301.64789"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3785"
+       id="linearGradient3783"
+       gradientUnits="userSpaceOnUse"
+       x1="102.85715"
+       y1="301.64789"
+       x2="202.85715"
+       y2="301.64789"
+       gradientTransform="matrix(1,0,0,3,134.35029,-613.29577)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3830"
+       id="linearGradient3816"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,5,253.54829,-1227.6017)"
+       x1="102.85715"
+       y1="301.64789"
+       x2="202.85715"
+       y2="301.64789" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3838"
+       id="linearGradient3822"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,10,375.77675,-2762.8614)"
+       x1="102.85715"
+       y1="301.64789"
+       x2="202.85715"
+       y2="301.64789" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3846"
+       id="linearGradient3828"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,13,508.10673,-3680.7847)"
+       x1="102.85715"
+       y1="301.64789"
+       x2="202.85715"
+       y2="301.64789" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3874"
+       id="linearGradient3858"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,16,622.25397,-4599.7181)"
+       x1="102.85715"
+       y1="301.64789"
+       x2="202.85715"
+       y2="301.64789" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3866"
+       id="linearGradient3864"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,20,736.40121,-5826.3096)"
+       x1="102.85715"
+       y1="301.64789"
+       x2="202.85715"
+       y2="301.64789" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3803"
+       id="linearGradient3809"
+       x1="102.85715"
+       y1="206.64789"
+       x2="202.85715"
+       y2="206.64789"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3830"
+       id="linearGradient3818"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,5,253.54829,-1227.6017)"
+       x1="102.85715"
+       y1="301.64789"
+       x2="202.85715"
+       y2="301.64789" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3838"
+       id="linearGradient3823"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,10,375.77675,-2762.8614)"
+       x1="102.85715"
+       y1="301.64789"
+       x2="202.85715"
+       y2="301.64789" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3846"
+       id="linearGradient3827"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,13,508.10673,-3680.7847)"
+       x1="102.85715"
+       y1="301.64789"
+       x2="202.85715"
+       y2="301.64789" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3874"
+       id="linearGradient3831"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,16,622.25397,-4599.7181)"
+       x1="102.85715"
+       y1="301.64789"
+       x2="202.85715"
+       y2="301.64789" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3803"
+       id="linearGradient3841"
+       x1="237.20744"
+       y1="206.64789"
+       x2="337.20743"
+       y2="206.64789"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3803"
+       id="linearGradient3849"
+       x1="356.40546"
+       y1="205.63773"
+       x2="456.40546"
+       y2="205.63773"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3803"
+       id="linearGradient3857"
+       x1="478.63391"
+       y1="203.61743"
+       x2="578.63391"
+       y2="203.61743"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3803"
+       id="linearGradient3865"
+       x1="610.96387"
+       y1="205.63773"
+       x2="710.96387"
+       y2="205.63773"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3803"
+       id="linearGradient3873"
+       x1="725.11108"
+       y1="206.64789"
+       x2="825.11108"
+       y2="206.64789"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="495.91669"
+     inkscape:cy="880.62134"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="874"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3895"
+       inkscape:export-filename="/home/vencax/prg/java/adnroid/bms/res/drawable-hdpi/lev6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g3813">
+        <rect
+           style="fill:url(#linearGradient3809);fill-opacity:1;stroke:none"
+           id="rect2985"
+           width="100"
+           height="200"
+           x="102.85715"
+           y="106.64789"
+           inkscape:export-filename="/home/vencax/prg/java/adnroid/bms/res/drawable-ldpi/lev1.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           y="296.64789"
+           x="102.85715"
+           height="10"
+           width="100"
+           id="rect2987"
+           style="fill:url(#linearGradient3775);fill-opacity:1;stroke:none" />
+      </g>
+    </g>
+    <g
+       id="g3891"
+       inkscape:export-filename="/home/vencax/prg/java/adnroid/bms/res/drawable-hdpi/lev5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/vencax/prg/java/adnroid/bms/res/drawable-ldpi/lev2.png"
+         style="fill:url(#linearGradient3841);fill-opacity:1.0;stroke:none"
+         id="rect3779"
+         width="100"
+         height="200"
+         x="237.20744"
+         y="106.64789" />
+      <rect
+         y="276.64789"
+         x="237.20744"
+         height="30"
+         width="100"
+         id="rect3781"
+         style="fill:url(#linearGradient3783);fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g3887"
+       inkscape:export-filename="/home/vencax/prg/java/adnroid/bms/res/drawable-hdpi/lev4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="105.63773"
+         x="356.40546"
+         height="200"
+         width="100"
+         id="rect3812"
+         style="fill:url(#linearGradient3849);fill-opacity:1.0;stroke:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/vencax/prg/java/adnroid/bms/res/drawable-ldpi/lev4.png"
+         style="fill:url(#linearGradient3818);fill-opacity:1;stroke:none"
+         id="rect3814"
+         width="100"
+         height="50"
+         x="356.40546"
+         y="255.63773" />
+    </g>
+    <g
+       id="g3883"
+       inkscape:export-filename="/home/vencax/prg/java/adnroid/bms/res/drawable-hdpi/lev3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:url(#linearGradient3857);fill-opacity:1.0;stroke:none"
+         id="rect3818"
+         width="100"
+         height="200"
+         x="478.63391"
+         y="103.61743" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/vencax/prg/java/adnroid/bms/res/drawable-ldpi/lev3.png"
+         y="203.61743"
+         x="478.63391"
+         height="100"
+         width="100"
+         id="rect3820"
+         style="fill:url(#linearGradient3823);fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g3879"
+       inkscape:export-filename="/home/vencax/prg/java/adnroid/bms/res/drawable-hdpi/lev2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="105.63773"
+         x="610.96387"
+         height="200"
+         width="100"
+         id="rect3824"
+         style="fill:url(#linearGradient3865);fill-opacity:1.0;stroke:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/vencax/prg/java/adnroid/bms/res/drawable-ldpi/lev2.png"
+         style="fill:url(#linearGradient3827);fill-opacity:1;stroke:none"
+         id="rect3826"
+         width="100"
+         height="130"
+         x="610.96387"
+         y="175.63773" />
+    </g>
+    <g
+       id="g3875"
+       inkscape:export-filename="/home/vencax/prg/java/adnroid/bms/res/drawable-hdpi/lev1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:url(#linearGradient3873);fill-opacity:1.0;stroke:none"
+         id="rect3854"
+         width="100"
+         height="200"
+         x="725.11108"
+         y="106.64789" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/vencax/prg/java/adnroid/bms/res/drawable-ldpi/lev1.png"
+         y="146.64787"
+         x="725.11108"
+         height="160"
+         width="100"
+         id="rect3856"
+         style="fill:url(#linearGradient3831);fill-opacity:1;stroke:none" />
+    </g>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect3860"
+       width="100"
+       height="200"
+       x="839.2583"
+       y="106.64789" />
+    <rect
+       y="106.64787"
+       x="839.2583"
+       height="200"
+       width="100"
+       id="rect3862"
+       style="fill:url(#linearGradient3864);fill-opacity:1.0;stroke:none"
+       inkscape:export-filename="/home/vencax/prg/java/adnroid/bms/res/drawable-ldpi/lev0.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
