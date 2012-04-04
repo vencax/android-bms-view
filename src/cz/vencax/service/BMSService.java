@@ -6,6 +6,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 import cz.vencax.BmsActivity;
+import cz.vencax.IRemoteService;
 import cz.vencax.R;
 
 import android.app.Notification;
@@ -24,17 +25,17 @@ public class BMSService extends Service {
     // Unique Identification Number for the Notification.
     // We use it on Notification start, and to cancel it.
     private int NOTIFICATION = R.string.local_service_started;
-
-    /**
-     * Class for clients to access.  Because we know this service always
-     * runs in the same process as its clients, we don't need to deal with
-     * IPC.
-     */
-    public class LocalBinder extends Binder {
-        BMSService getService() {
-            return BMSService.this;
-        }
-    }
+//
+//    /**
+//     * Class for clients to access.  Because we know this service always
+//     * runs in the same process as its clients, we don't need to deal with
+//     * IPC.
+//     */
+//    public class LocalBinder extends Binder {
+//        public BMSService getService() {
+//            return BMSService.this;
+//        }
+//    }
 
     @Override
     public void onCreate() {
@@ -66,9 +67,18 @@ public class BMSService extends Service {
         return mBinder;
     }
 
-    // This is the object that receives interactions from clients.  See
-    // RemoteService for a more complete example.
-    private final IBinder mBinder = new LocalBinder();
+//    // This is the object that receives interactions from clients.  See
+//    // RemoteService for a more complete example.
+//    private final IBinder mBinder = new LocalBinder();
+    private final IRemoteService.Stub mBinder = new IRemoteService.Stub() {
+        public int getPid(){
+            return 0;
+        }
+        public void basicTypes(int anInt, long aLong, boolean aBoolean,
+            float aFloat, double aDouble, String aString) {
+            // Does nothing
+        }
+    };
 
     /**
      * Show a notification while this service is running.
