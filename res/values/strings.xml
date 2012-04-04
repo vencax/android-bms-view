@@ -3,6 +3,19 @@
 
     <string name="hello">Hello World, BmsActivity!</string>
     <string name="app_name">Bms</string>
+    <string name="notification_title">Notif title</string>
+    <string name="notification_message">Notif mess</string>
+    <string name="ticker_text">ticker_texteee</string>
+    <string name="service_started">service_started</string>
+    
+	<string name="local_service_disconnected">local_service_disconnected</string>
+    <string name="local_service_connected">local_service_connected</string>
+    <string name="local_service_binding">local_service_binding</string>
+    <string name="local_service_started">local_service_started</string>
+    <string name="local_service_label">local_service_label</string>
+	<string name="local_service_stopped">local_service_stopped</string>
+    <string name="maxLoaderVoltage">Maximální napětí nabíječky:</string>
+    
     <drawable name="green">#00ee00</drawable>
 
 </resources>
